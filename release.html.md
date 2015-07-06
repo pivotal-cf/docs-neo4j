@@ -4,6 +4,15 @@ title: Neo4J for Pivotal Cloud Foundry
 
 Release notes for [Neo4J for Pivotal Cloud Foundry](https://network.pivotal.io/products/p-neo4j)
 
+### 1.4.1
+**Release Date: 6th July 2015**
+
+Features included in this release:
+
+* Support for OpsManager 1.5.x or 1.4.x
+* Support for vSphere or AWS Deployments
+* Requires stemcell 2989
+
 ### 1.4.0
 **Release Date: 27th April 2015**
 
