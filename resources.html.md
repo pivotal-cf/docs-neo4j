@@ -3,7 +3,7 @@ title: Neo4J for Pivotal Cloud Foundry
 ---
 
 # Resource requirements for Neo4J for PCF
-These are the default resource and IP requirements for installing the tile
+These are the default resource and IP requirements for installing the tile:
 <table border="1" class="nice">
 	<tr>
 		<th>Product</th>
