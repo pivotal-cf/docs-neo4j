@@ -1,5 +1,5 @@
 ---
-title: Neo4J for Pivotal Cloud Foundry
+title: Neo4J for Pivotal Cloud Foundry&reg; (PCF)
 ---
 
 # Resource requirements for Neo4J for PCF

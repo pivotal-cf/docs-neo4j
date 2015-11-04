@@ -1,8 +1,8 @@
 ---
-title: Neo4J for Pivotal Cloud Foundry
+title: Neo4J for Pivotal Cloud Foundry&reg;
 ---
 
-Release notes for [Neo4J for Pivotal Cloud Foundry](https://network.pivotal.io/products/p-neo4j)
+Release notes for [Neo4J for Pivotal Cloud Foundry&reg;](https://network.pivotal.io/products/p-neo4j)
 
 ### 1.4.1
 **Release Date: 6th July 2015**
