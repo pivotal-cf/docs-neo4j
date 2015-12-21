@@ -4,6 +4,8 @@ title: Neo4j for Pivotal Cloud Foundry&reg;
 
 This is documentation for the [Neo4j service](https://network.pivotal.io/products/p-neo4j) for [Pivotal Cloud Foundry&reg;](https://network.pivotal.io/products/pivotal-cf) (PCF).
 
+**This product is currently available as a free unsupported product from Pivotal Network, it is not actively maintained or updated with new versions or bug fixes.**
+
 ## Product snapshot
 
 <dl>
@@ -20,7 +22,7 @@ This is documentation for the [Neo4j service](https://network.pivotal.io/product
 
 ## Upgrading to the Latest Version
 
-Consider the following compatibility information before upgrading Neo4J for Pivotal Cloud Foundry&reg;. 
+Consider the following compatibility information before upgrading Neo4J for Pivotal Cloud Foundry&reg;.
 
 <p class="note"><strong>Note</strong>: Before you upgrade to Ops Manager 1.4.x, you must first upgrade Neo4J for PCF to any version in its 1.3.x minor release. This allows Neo4J for PCF upgrades after you install OpsManager 1.4.x. </p>
 
